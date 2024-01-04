@@ -3,7 +3,5 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - gdal=3.6.2=py310h644bc08_3
-  - geopandas=0.12.2=pyhd8ed1ab_0
-  - geopandas-base=0.12.2=pyha770c72_0
+  - geopandas
 prefix: D:\gitscripts\cliwac_drought_risk\.conda
