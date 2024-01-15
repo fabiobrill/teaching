@@ -5,4 +5,10 @@ channels:
 dependencies:
   - geopandas
   - seaborn
+  - numpy
+  - pandas
+  - matplotlib
+  - sklearn
+  - xgboost
+  - shap
 prefix: D:\gitscripts\cliwac_drought_risk\.conda
