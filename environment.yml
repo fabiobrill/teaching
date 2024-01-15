@@ -8,7 +8,7 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
-  - sklearn
+  - scikit-learn
   - xgboost
   - shap
 prefix: D:\gitscripts\cliwac_drought_risk\.conda
