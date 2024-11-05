@@ -3,13 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python==3.11
-  - geopandas
-  - seaborn
+  - python==3.10
   - numpy
   - pandas
-  - matplotlib
-  - scikit-learn
-  - xgboost
-  - shap
 prefix: D:\gitscripts\cliwac_drought_risk\.conda
