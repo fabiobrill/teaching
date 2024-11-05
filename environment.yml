@@ -9,4 +9,5 @@ dependencies:
   - geopandas==0.12.2
   - fiona==1.9.6
   - matplotlib
+  - seaborne
 prefix: D:\gitscripts\cliwac_drought_risk\.conda
