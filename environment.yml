@@ -6,9 +6,5 @@ dependencies:
   - python==3.10
   - numpy
   - pandas
-  - matplotlib
-  - seaborne
-  - scikit-learn
-  - xgboost
-  - shap
+  - geopandas==0.12.2
 prefix: D:\gitscripts\cliwac_drought_risk\.conda
