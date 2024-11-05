@@ -6,4 +6,7 @@ dependencies:
   - python==3.10
   - numpy
   - pandas
+  - matplotlib
+  - geopandas
+  - seaborn
 prefix: D:\gitscripts\cliwac_drought_risk\.conda
