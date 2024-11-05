@@ -9,8 +9,8 @@ dependencies:
   - geopandas==0.12.2
   - fiona==1.9.6
   - matplotlib
-  - seaborne==0.13
+  - seaborn==0.13
   - scikit-learn==1.2.0
-  - xgboost==2.0
+  - xgboost
   - shap==0.43.0
 prefix: D:\gitscripts\cliwac_drought_risk\.conda
