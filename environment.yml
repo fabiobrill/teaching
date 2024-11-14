@@ -4,13 +4,13 @@ channels:
   - defaults
 dependencies:
   - python==3.10
-  - numpy
-  - pandas
+  - numpy==1.23.5
+  - pandas==1.5.3
   - geopandas==0.12.2
   - fiona==1.9.6
-  - matplotlib
+  - matplotlib==3.6.2
   - seaborn==0.13
   - scikit-learn==1.2.0
-  - xgboost
+  - py-xgboost==1.7.6
   - shap==0.43.0
 prefix: D:\gitscripts\cliwac_drought_risk\.conda
