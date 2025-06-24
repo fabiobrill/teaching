@@ -1,6 +1,7 @@
 import os
 import rasterio
 import numpy as np
+import matplotlib.pyplot as plt
 
 def readRaster(input_path):
     """Read a GeoTIFF file and return the data, transform, and CRS."""
